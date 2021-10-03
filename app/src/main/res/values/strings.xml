@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="Expenses">Expenses</string>
+    <string name="Balance">Balance</string>
+    <string name="Income">Income</string>
+    <string name="Expense">Expense</string>
+    <string name="currency">\u0024</string>
+    <string name="Amount">Amount</string>
+    <string name="Description">Description</string>
+    <string name="Date">Date</string>
+    <string name="Category">Category</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="Food">Food</string>
+    <string name="Travel">Travel</string>
+    <string name="Clothes">Clothes</string>
+    <string name="Movies">Movies</string>
+    <string name="Health">Health</string>
+    <string name="Snack">Snack</string>
+    <string name="Transportation">Transportation</string>
+    <string name="AmountError">Amount cannot be empty</string>
+    <string name="DesError">Please write some description</string>
+    <string name="Added">Added</string>
+    <string name="Updated">Updated</string>
+    <string name="EditIncome">Edit Income</string>
+    <string name="EditExpense">Edit Expense</string>
+    <string name="Save">Save</string>
+    <string-array name="date_array">
+        <item>All</item>
+        <item>This Week</item>
+        <item>This Month</item>
+    </string-array>
+</resources>

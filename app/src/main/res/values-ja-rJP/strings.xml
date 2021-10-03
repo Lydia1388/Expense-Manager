@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">経費マネージャー</string>
+    <string name="Expenses">しゅうし</string>
+    <string name="Balance">バランス</string>
+    <string name="Income">収入</string>
+    <string name="Expense">支出</string>
+    <string name="currency">\uffe5</string>
+    <string name="Amount">お金</string>
+    <string name="Description">説明</string>
+    <string name="Date">日付</string>
+    <string name="Category">カテゴリー</string>
+    <string name="add_income">追加する収入</string>
+    <string name="add_expense">追加する支出</string>
+    <string name="Food">食べ物</string>
+    <string name="Travel">旅行</string>
+    <string name="Clothes">服装</string>
+    <string name="Movies">映画</string>
+    <string name="Health">健康</string>
+    <string name="Snack">おやつ</string>
+    <string name="Transportation">交通</string>
+    <string name="AmountError">金額を空にすることはできません</string>
+    <string name="DesError">説明を書いてください</string>
+    <string name="Added">加える</string>
+    <string name="Updated">更新しました</string>
+    <string name="EditIncome">編集収入</string>
+    <string name="EditExpense">編集支出</string>
+    <string name="Save">保存する</string>
+    <string-array name="date_array">
+        <item>全部</item>
+        <item>今週</item>
+        <item>今月</item>
+    </string-array>
+</resources>

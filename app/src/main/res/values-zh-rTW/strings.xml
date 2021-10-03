@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_expense">新增支出</string>
+    <string name="add_income">新增收入</string>
+    <string name="app_name">錢去哪了？</string>
+    <string name="Expense">支出</string>
+    <string name="Income">收入</string>
+    <string name="currency">NTD</string>
+    <string name="Amount">金額</string>
+    <string name="Category">類別</string>
+    <string name="Date">日期</string>
+    <string name="Description">描述</string>
+    <string name="Save">保存</string>
+    <string name="Food">食物</string>
+    <string name="Health">醫療</string>
+    <string name="Movies">電影</string>
+    <string name="Transportation">交通</string>
+    <string name="Travel">旅遊</string>
+    <string name="Clothes">衣服</string>
+    <string name="Snack">零食</string>
+    <string name="AmountError">金額不能是空的呦</string>
+    <string name="DesError">描述不能是空的呦</string>
+    <string name="Updated">已修改</string>
+    <string name="Added">已新增一筆</string>
+    <string name="EditExpense">修改支出</string>
+    <string name="EditIncome">修改收入</string>
+    <string name="Balance">統計</string>
+    <string name="Expenses">收支</string>
+    <string-array name="date_array">
+    <item>所有</item>
+    <item>這禮拜</item>
+    <item>這個月</item>
+    </string-array>
+</resources>
